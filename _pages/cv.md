@@ -9,30 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+For my full CV, check out my [linkedin profile](linkedin.com/in/marcel-rath)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical Engineering and Information Technology, Technical University of Darmstadt, 2025
+* B.S. in Electrical Engineering and Information Technology, Technical University of Darmstadt, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: Student Research Assistant
+* 2022-2023: Working Student
+* 2020-2022: Student Teaching Assistant
+* 2017-2019: Apprentice as Electrician
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
