@@ -21,7 +21,7 @@ Work experience
 * 2025: Student Research Assistant
 * 2022-2023: Working Student
 * 2020-2022: Student Teaching Assistant
-* 2017-2019: Apprentice as Electrician
+* 2014-2017: Apprentice as Electrician
 
 <!-- Skills
 ======
